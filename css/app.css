@@ -1,0 +1,22 @@
+@firstsection {
+  background-color: #CC3333; }
+body {
+  background-color: #CC3333; }
+
+#secondsection .container .navbar-inverse {
+  background-color: #cc3;
+  border-color: #cc3; }
+
+#fourthsection {
+  text-align: center;
+  margin-left: 16em; }
+  #fourthsection .carousel-control {
+    text-align: center; }
+  #fourthsection h1 {
+    margin-right: 9em;
+    text-align: center; }
+
+.carousel-inner > .item > img, .img-responsive, .thumbnail a > img, .thumbnail > img {
+  display: inline; }
+
+/*# sourceMappingURL=app.css.map */

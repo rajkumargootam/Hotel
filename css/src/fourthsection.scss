@@ -1,0 +1,20 @@
+#fourthsection {
+
+  text-align: center;
+  margin-left: 16em;
+
+  .carousel-control{
+   text-align: center;
+  }
+
+  h1 {
+    margin-right: 9em;
+    text-align: center;
+  }
+}
+
+.carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+  display: inline;
+  // max-width: auto;
+  // height: auto;
+}

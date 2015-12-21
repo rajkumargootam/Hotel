@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,aAEC;EADD,gBAAgB,EAAE,OAAO;AAEzB,IAAK;EACH,gBAAgB,EAAE,OAAO;;ACFvB,yCAAgB;EAChB,gBAAgB,EAAE,IAAI;EACtB,YAAY,EAAE,IAAI;;ACJtB,cAAe;EAEb,UAAU,EAAE,MAAM;EAClB,WAAW,EAAE,IAAI;EAEjB,gCAAiB;IAChB,UAAU,EAAE,MAAM;EAGnB,iBAAG;IACD,YAAY,EAAE,GAAG;IACjB,UAAU,EAAE,MAAM;;AAItB,oFAA6E;EAC3E,OAAO,EAAE,MAAM",
+"sources": ["src/firstsection.scss","src/secondsection.scss","src/fourthsection.scss"],
+"names": [],
+"file": "app.css"
+}
