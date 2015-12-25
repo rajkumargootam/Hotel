@@ -1,16 +1,35 @@
 #fourthsection {
 
+  background-image: url('../images/1234.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    padding-top: 0em;
   text-align: center;
-  margin-left: 16em;
+  // margin-left: 16em;
+  // bottom: 1em;
+  width: 100%;
+   .col{
+    text-align: center;
+    font-size: 1em;
+    // margin-left: 30em;
+  }
+  // p {
+  //     margin-left: 30em;
+  // }
 
   .carousel-control{
+
    text-align: center;
+   width: 100px;
   }
 
   h1 {
     margin-right: 9em;
     text-align: center;
+    padding: 1em;
   }
+
 }
 
 .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {

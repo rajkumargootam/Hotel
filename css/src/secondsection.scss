@@ -1,8 +1,14 @@
 #secondsection  {
   .container {
     .navbar-inverse {
-    background-color: #cc3;
-    border-color: #cc3;
-}
+      background-color: #cc3;
+      border-color: #cc3;
+    }
+
+    a {
+      color: #337ab7;
+      text-decoration: none;
+      margin-left: 12em;
+    }
   }
 }

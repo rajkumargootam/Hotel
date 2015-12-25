@@ -3,20 +3,57 @@
 body {
   background-color: #CC3333; }
 
+h1 {
+  color: #cc3; }
+
 #secondsection .container .navbar-inverse {
   background-color: #cc3;
   border-color: #cc3; }
+#secondsection .container a {
+  color: #337ab7;
+  text-decoration: none;
+  margin-left: 12em; }
+
+#thirdsection {
+  background-image: repeating-linear-gradient("../images/main.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  border-radius: 1px shadow #444;
+  padding: 0; }
 
 #fourthsection {
+  background-image: url("../images/1234.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  padding-top: 0em;
   text-align: center;
-  margin-left: 16em; }
+  width: 100%; }
+  #fourthsection .col {
+    text-align: center;
+    font-size: 1em; }
   #fourthsection .carousel-control {
-    text-align: center; }
+    text-align: center;
+    width: 100px; }
   #fourthsection h1 {
     margin-right: 9em;
-    text-align: center; }
+    text-align: center;
+    padding: 1em; }
 
 .carousel-inner > .item > img, .img-responsive, .thumbnail a > img, .thumbnail > img {
   display: inline; }
+
+#fifthsection {
+  padding-top: 4em; }
+  #fifthsection .container {
+    text-align: center; }
+    #fifthsection .container h1 {
+      text-align: center; }
+    #fifthsection .container p {
+      text-align: center; }
+
+#sixthsection {
+  text-align: center; }
 
 /*# sourceMappingURL=app.css.map */
